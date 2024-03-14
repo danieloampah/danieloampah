@@ -7,7 +7,7 @@ Hi! I'm Daniel, an [IT Professional](https://www.linkedin.com/in/danielampah/) ð
   - [osTicket: Post-Installation Configuration](https://github.com/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure AD](https://github.com/)
+  - [Configuring Active Directory within Azure AD](https://github.com/)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
 
 <h2>ðŸ“¡ Connect with me:</h2>
