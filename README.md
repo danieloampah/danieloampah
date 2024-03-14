@@ -17,6 +17,6 @@ Hi! I'm Daniel, an [IT Professional](https://www.linkedin.com/in/danielampah/) ð
 [instagram]
 
 [X]: https://x.com/dannylegend10
-[instagram]: https://www.instagram.com/danieloampah
-[linkedin]: https://linkedin.com/in/danielampah
+[Instagram]: https://www.instagram.com/danieloampah
+[Linkedin]: https://linkedin.com/in/danielampah
 
