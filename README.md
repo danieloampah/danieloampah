@@ -12,9 +12,9 @@ Hi! I'm Daniel, an [IT Professional](https://www.linkedin.com/in/danielampah/) ð
 
 <h2>ðŸ“¡ Connect with me:</h2>
 
-![X][X]
-![linkedin][linkedin]
-![instagram][instagram]
+[X]
+[linkedin]
+[instagram]
 
 [X]: https://x.com/dannylegend10
 [instagram]: https://www.instagram.com/danieloampah
