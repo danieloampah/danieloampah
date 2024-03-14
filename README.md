@@ -1,6 +1,6 @@
 Hi! I'm Daniel, an [IT Professional](https://www.linkedin.com/in/danielampah/) 🚀
 
-<h2>🛠My Information Technology Projects:</h2>
+<h2>🟢My Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/)
