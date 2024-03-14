@@ -10,7 +10,7 @@ Hi! I'm Daniel, an [IT Professional](https://www.linkedin.com/in/danielampah/) �
   - [Configuring Active Directory within Azure AD](https://github.com/)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
 
-<h2>📡 Connect with me:</h2>
+<h2>📱 Connect with me:</h2>
 
 [X]
 [linkedin]
